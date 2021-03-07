@@ -1,0 +1,5 @@
+This will be logged!: 13925 
+I am a child in a new session with pid 13925 and ppid 13924 and groupID 13925 and sessionID 13925. ProcessGroupLeader: 1. SessionLeader: 1 
+Child exiting. Forked the Daemon. Duty done 
+I am a daemon process with id 13926 and ppID 13925 and groupID 13925 and sessionID 13925. ProcessGroupLeader: 0. SessionLeader: 0 
+I am a daemon process with id 13926 and was able to obtain a controlling terminal. This is UNEXPECTED.
